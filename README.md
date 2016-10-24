@@ -9,7 +9,7 @@ En 2016, suite à un appel à orateurs, [Sud Web](https://sudweb.fr/) a retenu m
 - [un billet plus détaillé sur la question des carnets](https://www.quaternum.net/2016/06/02/le-fanzinat-des-gens-du-web/).
 
 ## Un fichier OPML
-Cette liste est disponible sous forme de fichier XML, et plus particulièrement au format <abbr title="Outline Processor Markup Language">OPML</abbr>. Ce format est notamment utilisé par les lecteurs de flux RSS. Vous pouvez donc importer cette liste dans votre lecteur de flux RSS.
+Cette liste est disponible sous forme de fichier XML, et plus particulièrement au format <abbr title="Outline Processor Markup Language">OPML</abbr>, c'est une syntaxe assez simple. Ce format est notamment utilisé par les lecteurs de flux RSS. Vous pouvez donc importer cette liste dans votre lecteur de flux RSS.
 
 ## Contribuer
-Cette initiative est subjective est incomplète. Vous considérez qu'il manque *le* carnet web important ? Ajoutez-le !
+Cette liste est subjective est incomplète. Vous considérez qu'il manque *le* carnet web important ? Ajoutez-le !
