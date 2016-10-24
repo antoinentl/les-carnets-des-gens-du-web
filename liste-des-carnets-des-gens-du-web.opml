@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Les carnets des gens du web</title>
+  </head>
+  <body>
+    <outline title="flux" text="flux" description="flux" type="folder">
+        <outline title="24 jours de web" text="24 jours de web" description="24 jours de web" type="rss" xmlUrl="http://www.24joursdeweb.fr/feed/" htmlUrl="http://www.24joursdeweb.fr"/>
+        <outline title="Adactio: Journal" text="Adactio: Journal" description="Adactio: Journal" type="rss" xmlUrl="https://adactio.com/journal/rss" htmlUrl="https://adactio.com/journal/"/>
+        <outline title="Adactio: Links" text="Adactio: Links" description="Adactio: Links" type="rss" xmlUrl="https://adactio.com/links/rss" htmlUrl="https://adactio.com/links/"/>
+        <outline title="Alexis, pens&#xE9;es partag&#xE9;es" text="Alexis, pens&#xE9;es partag&#xE9;es" description="Alexis, pens&#xE9;es partag&#xE9;es" type="atom" xmlUrl="https://blog.notmyidea.org/feeds/all.atom.xml" htmlUrl="https://blog.notmyidea.org/"/>
+        <outline title="Anselm Hannemann" text="Anselm Hannemann" description="Anselm Hannemann" type="atom" xmlUrl="https://helloanselm.com/atom.xml" htmlUrl="https://helloanselm.com/"/>
+        <outline title="Baldur Bjarnason" text="Baldur Bjarnason" description="Baldur Bjarnason" type="atom" xmlUrl="http://feedpress.me/baldurbjarnason" htmlUrl="http://www.baldurbjarnason.com/"/>
+        <outline title="Bastien Guerry" text="Bastien Guerry" description="Bastien Guerry" type="rss" xmlUrl="https://bzg.fr/feed.xml" htmlUrl="https://bzg.fr/"/>
+        <outline title="Blog - BS" text="Blog - BS" description="Blog - BS" type="atom" xmlUrl="http://blog.basilesimon.fr/atom.xml" htmlUrl="https://blog.basilesimon.fr/"/>
+        <outline title="Blog dites-vous ?" text="Blog dites-vous ?" description="Blog dites-vous ?" type="atom" xmlUrl="http://emmanuel.clement.free.fr/blog/index.php/feed/atom" htmlUrl="http://emmanuel.clement.free.fr/blog/index.php/"/>
+        <outline title="Boris Schapira" text="Boris Schapira" description="Boris Schapira" type="rss" xmlUrl="https://borisschapira.com/feed.xml" htmlUrl="https://borisschapira.com/"/>
+        <outline title="Brad Frost" text="Brad Frost" description="Brad Frost" type="atom" xmlUrl="http://feeds.feedburner.com/brad-frosts-blog" htmlUrl="http://bradfrost.com"/>
+        <outline title="Bruce Lawson&#x2019;s  personal site" text="Bruce Lawson&#x2019;s  personal site" description="Bruce Lawson&#x2019;s  personal site" type="rss" xmlUrl="http://www.brucelawson.co.uk/feed/" htmlUrl="http://www.brucelawson.co.uk"/>
+        <outline title="Carnet de notes" text="Carnet de notes" description="Carnet de notes" type="rss" xmlUrl="https://n.survol.fr/feed" htmlUrl="https://n.survol.fr"/>
+        <outline title="Carnets de La Grange" text="Carnets de La Grange" description="Carnets de La Grange" type="atom" xmlUrl="http://www.la-grange.net/feed" htmlUrl="http://www.la-grange.net/"/>
+        <outline title="Cyrilou, en toute intimit&#xE9;." text="Cyrilou, en toute intimit&#xE9;." description="Cyrilou, en toute intimit&#xE9;." type="rss" xmlUrl="http://feedpress.me/blog-cyrilou" htmlUrl="http://blog.cyrilou.me/"/>
+        <outline title="David Larlet" text="David Larlet" description="David Larlet" type="atom" xmlUrl="https://larlet.fr/david/log/" htmlUrl="https://larlet.fr/david/"/>
+        <outline title="Deadly Breakfast" text="Deadly Breakfast" description="Deadly Breakfast" type="atom" xmlUrl="http://weblog.redisdead.net/main/feed/atom" htmlUrl="http://weblog.redisdead.net/main/"/>
+        <outline title="Delphine Malassingne" text="Delphine Malassingne" description="Delphine Malassingne" type="rss" xmlUrl="http://articles.nissone.com/feed/" htmlUrl="http://articles.nissone.com"/>
+        <outline title="Emmanuel Cl&#xE9;ment : 2015" text="Emmanuel Cl&#xE9;ment : 2015" description="Emmanuel Cl&#xE9;ment : 2015" type="rss" xmlUrl="http://emmanuel.clement.free.fr/2015/rss.php" htmlUrl="http://emmanuel.clement.free.fr/2015/"/>
+        <outline title="Espace Web de Lo&#xEF;c Mathaud" text="Espace Web de Lo&#xEF;c Mathaud" description="Espace Web de Lo&#xEF;c Mathaud" type="atom" xmlUrl="http://loic.mathaud.fr/feed/" htmlUrl="http://loic.mathaud.fr/feed"/>
+        <outline title="Esquisses&#x2026;" text="Esquisses&#x2026;" description="Esquisses&#x2026;" type="atom" xmlUrl="http://esquisses.clochix.net/atom.xml" htmlUrl="http://esquisses.clochix.net/"/>
+        <outline title="Frank Taillandier" text="Frank Taillandier" description="Frank Taillandier" type="atom" xmlUrl="http://frank.taillandier.me/feed.xml" htmlUrl="http://frank.taillandier.me/"/>
+        <outline title="Fuuuuuuuuuu" text="Fuuuuuuuuuu" description="Fuuuuuuuuuu" type="rss" xmlUrl="http://fuuuccckkk.tumblr.com/rss" htmlUrl="http://fuuuccckkk.tumblr.com/"/>
+        <outline title="Gribouillis dans les marges" text="Gribouillis dans les marges" description="Gribouillis dans les marges" type="atom" xmlUrl="https://clochix.net/marges/atom.xml" htmlUrl="https://clochix.net/marges/"/>
+        <outline title="HTeuMeuLeu" text="HTeuMeuLeu" description="HTeuMeuLeu" type="rss" xmlUrl="http://www.hteumeuleu.fr/feed/" htmlUrl="http://www.hteumeuleu.fr"/>
+        <outline title="Jake Archibald's Blog" text="Jake Archibald's Blog" description="Jake Archibald's Blog" type="rss" xmlUrl="https://jakearchibald.com/posts.rss" htmlUrl="http://jakearchibald.com/"/>
+        <outline title="Je Hais Le Printemps" text="Je Hais Le Printemps" description="Je Hais Le Printemps" type="rss" xmlUrl="http://jehaisleprintemps.net/blog/rss/" htmlUrl="http://jehaisleprintemps.net/"/>
+        <outline title="Jiminy Panoz" text="Jiminy Panoz" description="Jiminy Panoz" type="rss" xmlUrl="http://jiminy.chapalpanoz.com/feed/" htmlUrl="http://jiminy.chapalpanoz.com"/>
+        <outline title="Journal de tibomahe" text="Journal de tibomahe" description="Journal de tibomahe" type="rss" xmlUrl="http://thibault.mahe.io/journal/feed/rss" htmlUrl="http://thibault.mahe.io/journal/"/>
+        <outline title="La vie en #ffoodd" text="La vie en #ffoodd" description="La vie en #ffoodd" type="rss" xmlUrl="http://www.ffoodd.fr/feed/" htmlUrl="http://www.ffoodd.fr"/>
+        <outline title="Le bloc-notes ; ergonomie &amp; UX" text="Le bloc-notes ; ergonomie &amp; UX" description="Le bloc-notes ; ergonomie &amp; UX" type="rss" xmlUrl="http://blocnotes.iergo.fr/feed" htmlUrl="http://blocnotes.iergo.fr"/>
+        <outline title="MARIE &amp; JULIEN" text="MARIE &amp; JULIEN" description="MARIE &amp; JULIEN" type="atom" xmlUrl="http://mariejulien.com/feed/atom" htmlUrl="http://mariejulien.com/"/>
+        <outline title="Marco's Accessibility Blog" text="Marco's Accessibility Blog" description="Marco's Accessibility Blog" type="rss" xmlUrl="https://www.marcozehe.de/feed/" htmlUrl="https://www.marcozehe.de"/>
+        <outline title="Marges" text="Marges" description="Marges" type="rss" xmlUrl="https://clairezed.github.io/marges/feed.xml" htmlUrl="https://clairezed.github.io/marges/"/>
+        <outline title="Marie Guillaumet" text="Marie Guillaumet" description="Marie Guillaumet" type="rss" xmlUrl="http://marieguillaumet.com/feed/" htmlUrl="http://marieguillaumet.com"/>
+        <outline title="Miximum" text="Miximum" description="Miximum" type="rss" xmlUrl="https://www.miximum.fr/feeds/blog/" htmlUrl="http://www.miximum.fr/feeds/articles.rss"/>
+        <outline title="Nicolas Hoizey" text="Nicolas Hoizey" description="Nicolas Hoizey" type="atom" xmlUrl="https://nicolas-hoizey.com/atom.xml" htmlUrl="https://nicolas-hoizey.com/?utm_source=Atom%20feed"/>
+        <outline title="Nicolas Kayser-Bril" text="Nicolas Kayser-Bril" description="Nicolas Kayser-Bril" type="atom" xmlUrl="http://blog.nkb.fr/atom.xml" htmlUrl="http://blog.nkb.fr/"/>
+        <outline title="Nico&#x2019;s dreams - Blog et pens&#xE9;es d'un int&#xE9;grateur/d&#xE9;veloppeur web - Nicolas Hoffmann" text="Nico&#x2019;s dreams - Blog et pens&#xE9;es d'un int&#xE9;grateur/d&#xE9;veloppeur web - Nicolas Hoffmann" description="Nico&#x2019;s dreams - Blog et pens&#xE9;es d'un int&#xE9;grateur/d&#xE9;veloppeur web - Nicolas Hoffmann" type="rss" xmlUrl="http://www.nicolas-hoffmann.net/rss/index.php" htmlUrl="https://www.nicolas-hoffmann.net/rss/index.php"/>
+        <outline title="Notes" text="Notes" description="Notes" type="atom" xmlUrl="http://notes.desbenoit.net/?page=atom.xml" htmlUrl="http://notes.desbenoit.net/"/>
+        <outline title="Openweb.eu.org" text="Openweb.eu.org" description="Openweb.eu.org" type="rss" xmlUrl="http://openweb.eu.org/?page=backend" htmlUrl="http://openweb.eu.org/"/>
+        <outline title="Page 42" text="Page 42" description="Page 42" type="rss" xmlUrl="http://page42.org/feed/" htmlUrl="http://page42.org"/>
+        <outline title="Polylogue" text="Polylogue" description="Polylogue" type="rss" xmlUrl="http://polylogue.org/feed/" htmlUrl="http://polylogue.org"/>
+        <outline title="Robin Rendle" text="Robin Rendle" description="Robin Rendle" type="rss" xmlUrl="https://robinrendle.com/feed.xml" htmlUrl="http://robinrendle.com"/>
+        <outline title="STPo" text="STPo" description="STPo" type="rss" xmlUrl="http://www.stpo.fr/feed/" htmlUrl="http://www.stpo.fr"/>
+        <outline title="Sara Soueidan" text="Sara Soueidan" description="Sara Soueidan" type="atom" xmlUrl="http://sarasoueidan.com/rss.xml" htmlUrl="https://sarasoueidan.com/"/>
+        <outline title="Scripting News" text="Scripting News" description="Scripting News" type="rss" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/"/>
+        <outline title="Standblog" text="Standblog" description="Standblog" type="atom" xmlUrl="http://standblog.org/blog/feed/atom" htmlUrl="http://standblog.org/blog/"/>
+        <outline title="St&#xE9;phanie Walter : Webdesign - int&#xE9;gration web | Strasbourg - Alsace." text="St&#xE9;phanie Walter : Webdesign - int&#xE9;gration web | Strasbourg - Alsace." description="St&#xE9;phanie Walter : Webdesign - int&#xE9;gration web | Strasbourg - Alsace." type="rss" xmlUrl="http://feedpress.me/inpixelitrust-blog-fr" htmlUrl="https://blog.stephaniewalter.fr"/>
+        <outline title="Tout ce qui bouge" text="Tout ce qui bouge" description="Tout ce qui bouge" type="rss" xmlUrl="http://toutcequibouge.net/rss" htmlUrl="http://toutcequibouge.net"/>
+        <outline title="T&#xFB;tie&#x2019;s blog" text="T&#xFB;tie&#x2019;s blog" description="T&#xFB;tie&#x2019;s blog" type="rss" xmlUrl="http://tut-tuuut.github.io/rss.xml" htmlUrl="http://tut-tuuut.github.io"/>
+        <outline title="Vincent V. Billets." text="Vincent V. Billets." description="Vincent V. Billets." type="rss" xmlUrl="http://vincent-valentin.name/actualites" htmlUrl="http://vincent-valentin.name/tout"/>
+        <outline title="Visualgui.com" text="Visualgui.com" description="Visualgui.com" type="rss" xmlUrl="https://www.visualgui.com/feed/" htmlUrl="https://www.visualgui.com"/>
+        <outline title="Writing" text="Writing" description="Writing" type="rss" xmlUrl="http://mrmrs.io/writing/feed.xml" htmlUrl="http://mrmrs.io/writing"/>
+        <outline title="affordance.info" text="affordance.info" description="affordance.info" type="atom" xmlUrl="http://www.affordance.info/mon_weblog/atom.xml" htmlUrl="http://www.affordance.info/mon_weblog/"/>
+        <outline title="fadebiaye" text="fadebiaye" description="fadebiaye" type="rss" xmlUrl="http://fadebiaye.tumblr.com/rss" htmlUrl="http://fadebiaye.tumblr.com/"/>
+        <outline title="nota-bene.org" text="nota-bene.org" description="nota-bene.org" type="rss" xmlUrl="http://nota-bene.org/spip.php?page=backend" htmlUrl="http://nota-bene.org/"/>
+        <outline title="oncletom.io" text="oncletom.io" description="oncletom.io" type="atom" xmlUrl="https://oncletom.io/feed/" htmlUrl="https://oncletom.io/"/>
+        <outline title="pompage.net" text="pompage.net" description="pompage.net" type="rss" xmlUrl="http://www.pompage.net/rss-2.0" htmlUrl="http://www.pompage.net/"/>
+        <outline title="quaternum" text="quaternum" description="quaternum" type="atom" xmlUrl="https://www.quaternum.net/atom.xml" htmlUrl="https://www.quaternum.net/"/>
+        <outline title="romy.tetue.net" text="romy.tetue.net" description="romy.tetue.net" type="rss" xmlUrl="http://feeds.feedburner.com/romy" htmlUrl="http://romy.tetue.net/"/>
+        <outline title="shaarliGor" text="shaarliGor" description="shaarliGor" type="rss" xmlUrl="https://id-libre.org/shaarli/?do=rss" htmlUrl="https://id-libre.org/shaarli/"/>
+        <outline title="sylvain durand" text="sylvain durand" description="sylvain durand" type="rss" xmlUrl="https://www.sylvaindurand.org/rss.xml" htmlUrl="https://www.sylvaindurand.org"/>
+    </outline>
+  </body>
+</opml>
