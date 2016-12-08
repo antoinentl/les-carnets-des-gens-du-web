@@ -12,6 +12,7 @@
         <outline title="Anselm Hannemann" text="Anselm Hannemann" description="Anselm Hannemann" type="atom" xmlUrl="https://helloanselm.com/atom.xml" htmlUrl="https://helloanselm.com/"/>
         <outline title="Baldur Bjarnason" text="Baldur Bjarnason" description="Baldur Bjarnason" type="atom" xmlUrl="http://feedpress.me/baldurbjarnason" htmlUrl="http://www.baldurbjarnason.com/"/>
         <outline title="Bastien Guerry" text="Bastien Guerry" description="Bastien Guerry" type="rss" xmlUrl="https://bzg.fr/feed.xml" htmlUrl="https://bzg.fr/"/>
+        <outline title="bitsofcode" text="bitsofcode" description="bitsofcode" type="rss" xmlUrl="https://bitsofco.de/rss/" htmlUrl="https://bitsofco.de/"/>
         <outline title="Blog - BS" text="Blog - BS" description="Blog - BS" type="atom" xmlUrl="http://blog.basilesimon.fr/atom.xml" htmlUrl="https://blog.basilesimon.fr/"/>
         <outline title="Blog dites-vous ?" text="Blog dites-vous ?" description="Blog dites-vous ?" type="atom" xmlUrl="http://emmanuel.clement.free.fr/blog/index.php/feed/atom" htmlUrl="http://emmanuel.clement.free.fr/blog/index.php/"/>
         <outline title="Boris Schapira" text="Boris Schapira" description="Boris Schapira" type="rss" xmlUrl="https://borisschapira.com/feed.xml" htmlUrl="https://borisschapira.com/"/>
@@ -56,6 +57,7 @@
         <outline title="St&#xE9;phanie Walter : Webdesign - int&#xE9;gration web | Strasbourg - Alsace." text="St&#xE9;phanie Walter : Webdesign - int&#xE9;gration web | Strasbourg - Alsace." description="St&#xE9;phanie Walter : Webdesign - int&#xE9;gration web | Strasbourg - Alsace." type="rss" xmlUrl="http://feedpress.me/inpixelitrust-blog-fr" htmlUrl="https://blog.stephaniewalter.fr"/>
         <outline title="Tout ce qui bouge" text="Tout ce qui bouge" description="Tout ce qui bouge" type="rss" xmlUrl="http://toutcequibouge.net/rss" htmlUrl="http://toutcequibouge.net"/>
         <outline title="T&#xFB;tie&#x2019;s blog" text="T&#xFB;tie&#x2019;s blog" description="T&#xFB;tie&#x2019;s blog" type="rss" xmlUrl="http://tut-tuuut.github.io/rss.xml" htmlUrl="http://tut-tuuut.github.io"/>
+        <outline title="Un carnet" text="Un carnet" description="Un carnet" type="atom" xmlUrl="http://emmanuel.clement.free.fr/feed.xml" htmlUrl="http://emmanuel.clement.free.fr/"/>
         <outline title="Vincent V. Billets." text="Vincent V. Billets." description="Vincent V. Billets." type="rss" xmlUrl="http://vincent-valentin.name/actualites" htmlUrl="http://vincent-valentin.name/tout"/>
         <outline title="Visualgui.com" text="Visualgui.com" description="Visualgui.com" type="rss" xmlUrl="https://www.visualgui.com/feed/" htmlUrl="https://www.visualgui.com"/>
         <outline title="Writing" text="Writing" description="Writing" type="rss" xmlUrl="http://mrmrs.io/writing/feed.xml" htmlUrl="http://mrmrs.io/writing"/>
@@ -68,6 +70,7 @@
         <outline title="romy.tetue.net" text="romy.tetue.net" description="romy.tetue.net" type="rss" xmlUrl="http://feeds.feedburner.com/romy" htmlUrl="http://romy.tetue.net/"/>
         <outline title="shaarliGor" text="shaarliGor" description="shaarliGor" type="rss" xmlUrl="https://id-libre.org/shaarli/?do=rss" htmlUrl="https://id-libre.org/shaarli/"/>
         <outline title="sylvain durand" text="sylvain durand" description="sylvain durand" type="rss" xmlUrl="https://www.sylvaindurand.org/rss.xml" htmlUrl="https://www.sylvaindurand.org"/>
+        <outline title="WHAT HAPPENS NEXT" text="WHAT HAPPENS NEXT" description="WHAT HAPPENS NEXT" type="atom" xmlUrl="https://nrkn.fr/feed/" htmlUrl="https://nrkn.fr/"/>
     </outline>
   </body>
 </opml>
