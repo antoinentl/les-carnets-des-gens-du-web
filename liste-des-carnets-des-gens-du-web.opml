@@ -36,6 +36,7 @@
         <outline title="Je Hais Le Printemps" text="Je Hais Le Printemps" description="Je Hais Le Printemps" type="rss" xmlUrl="http://jehaisleprintemps.net/blog/rss/" htmlUrl="http://jehaisleprintemps.net/"/>
         <outline title="Jiminy Panoz" text="Jiminy Panoz" description="Jiminy Panoz" type="rss" xmlUrl="http://jiminy.chapalpanoz.com/feed/" htmlUrl="http://jiminy.chapalpanoz.com"/>
         <outline title="Journal de tibomahe" text="Journal de tibomahe" description="Journal de tibomahe" type="rss" xmlUrl="http://thibault.mahe.io/journal/feed/rss" htmlUrl="http://thibault.mahe.io/journal/"/>
+        <outline title="LA CASCADE" text="LA CASCADE" description="LA CASCADE" type="rss" xmlUrl="https://la-cascade.io/rss/" htmlUrl="https://la-cascade.io/"/>
         <outline title="La vie en #ffoodd" text="La vie en #ffoodd" description="La vie en #ffoodd" type="rss" xmlUrl="http://www.ffoodd.fr/feed/" htmlUrl="http://www.ffoodd.fr"/>
         <outline title="Le bloc-notes ; ergonomie &amp; UX" text="Le bloc-notes ; ergonomie &amp; UX" description="Le bloc-notes ; ergonomie &amp; UX" type="rss" xmlUrl="http://blocnotes.iergo.fr/feed" htmlUrl="http://blocnotes.iergo.fr"/>
         <outline title="MARIE &amp; JULIEN" text="MARIE &amp; JULIEN" description="MARIE &amp; JULIEN" type="atom" xmlUrl="http://mariejulien.com/feed/atom" htmlUrl="http://mariejulien.com/"/>
@@ -66,6 +67,7 @@
         <outline title="fadebiaye" text="fadebiaye" description="fadebiaye" type="rss" xmlUrl="http://fadebiaye.tumblr.com/rss" htmlUrl="http://fadebiaye.tumblr.com/"/>
         <outline title="nota-bene.org" text="nota-bene.org" description="nota-bene.org" type="rss" xmlUrl="http://nota-bene.org/spip.php?page=backend" htmlUrl="http://nota-bene.org/"/>
         <outline title="oncletom.io" text="oncletom.io" description="oncletom.io" type="atom" xmlUrl="https://oncletom.io/feed/" htmlUrl="https://oncletom.io/"/>
+        <outline title="pelmel.org" text="pelmel.org" description="pelmel.org" type="rss" xmlUrl="http://blog.pelmel.org/feed/" htmlUrl="http://blog.pelmel.org"/>
         <outline title="pompage.net" text="pompage.net" description="pompage.net" type="rss" xmlUrl="http://www.pompage.net/rss-2.0" htmlUrl="http://www.pompage.net/"/>
         <outline title="quaternum" text="quaternum" description="quaternum" type="atom" xmlUrl="https://www.quaternum.net/atom.xml" htmlUrl="https://www.quaternum.net/"/>
         <outline title="romy.tetue.net" text="romy.tetue.net" description="romy.tetue.net" type="rss" xmlUrl="http://feeds.feedburner.com/romy" htmlUrl="http://romy.tetue.net/"/>
